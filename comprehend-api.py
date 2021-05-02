@@ -23,3 +23,9 @@ def lambda_handler(event,context):
         'Response': response
 
     }
+
+    '''
+    Payload
+
+    Text: {"This is a good tool"}
+    '''
